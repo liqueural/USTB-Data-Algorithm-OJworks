@@ -1,4 +1,4 @@
-// Iteration_of_LargeScaleSparseLinearEquations.cpp
+// Iteration_of_Large_Scale_Sparse_Linear_Equations.cpp
 #include <iostream>
 #include <vector>
 #include <tuple>
